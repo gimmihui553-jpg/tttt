@@ -1,0 +1,6 @@
+{
+  "name": "네온 테트리스 아케이드 (Neon Tetris)",
+  "description": "구글 로그인과 Firebase 실시간 랭킹 시스템이 연동된 프리미엄 네온 테트리스 웹 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
